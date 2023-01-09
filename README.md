@@ -7,25 +7,25 @@ We will be using Pandas libraries, the Jupyter Notebook, and Matplolib to create
 ## Preparing the Data
 First, we generated a ride-sharing DataFrame by city type using .groupby(), count(), and sum() functions.
 
-![summarydata](summarydata.png)
+![summarydata](analysis/summarydata.png)
 
 ### Total Rides for Each City Type
 
-![Fig2](Fig2.png)
+![Fig2](analysis/Fig2.png)
 
 ### Total Drivers for Each City Type
 
-![Fig4](Fig4.png)
+![Fig4](analysis/Fig4.png)
 
 ### Total Fares for Each City Type
 
-![Fig3](Fig3.png)
+![Fig3](analysis/Fig3.png)
 
 ### Average Fare per Ride and Driver
 
-![Fig5](Fig5.png)
-![Fig6](Fig6.png)
+![Fig6](analysis/Fig6.png)
+![Fig7](analysis/Fig7.png)
 
 ### Total Fare by City Type
 
-![Fig7](Fig7.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
